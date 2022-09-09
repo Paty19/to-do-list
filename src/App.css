@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(218, 176, 182);
+   background-image: url(https://img.freepik.com/free-photo/school-items-with-pink-background_23-2148565152.jpg?size=626&ext=jpg&uid=R72558612&ga=GA1.2.998324069.1654165304) ;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.btn {
+    padding: 10px;
+    border: pink 2px solid;
+    width: 60%;
+   
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    
+    }
+    li,ul{
+      font-family: 'Montserrat', sans-serif;
+      list-style-type: none;
+      padding: 8px;
+      margin: 0;
+    }
+    h1{
+      font-family: 'Montserrat', sans-serif;
+    }
+    .container{
+      display: flex;
+      justify-content: center;
+      margin-bottom: 10px;
+   
+     
+    }
+    img{
+      border-radius:45%;
+      border: pink 2px solid;
+    }
+    .one{
+        padding: 10px;
+        width: 20%;
+        
+    }
+    .crossed {
+
+      text-decoration: line-through 3px rgb(221, 78, 150);
+    
+      background-color: #f0f0f0;
+    
+    }
