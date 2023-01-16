@@ -1,7 +1,9 @@
 import './App.css';
 import image from './night.jpeg';
-import imageTwo from './day.jpeg';
+import imageTwo from './one.jpeg';
 import { Diary } from './Diary';
+
+
 
 
 
