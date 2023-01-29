@@ -1,5 +1,5 @@
 import { Component } from "react";
-import check from './check.png'
+import check from './check.png';
 
 export class Diary extends Component{
 state={
